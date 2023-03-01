@@ -1,4 +1,4 @@
-##Patrones de diseño mas conocidos:
+## Patrones de diseño mas conocidos:
 
 ## Patrones creacionales
 1. Factory method
