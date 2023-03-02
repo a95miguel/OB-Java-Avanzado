@@ -5,7 +5,3 @@ Observer es uno de los principales patrones de diseño utilizados en interfaces 
 * Mediante una implementacion de este diseño en una aplicación que cargue la configuracion desde el inicio, notificara de forma automatica a todos los objetos que esten interesados en los cambios.
 
 * Los patrones de diseño son la clave para crecer profesionalmente hacia la arquitectura de software.
-
-
-http://www3.uji.es/~belfern/Docencia/Presentaciones/ProgramacionAvanzada/Tema2/observador.html#9
-
